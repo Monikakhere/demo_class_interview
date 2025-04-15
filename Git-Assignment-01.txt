@@ -5,7 +5,6 @@ A) Automatically commits changes
 B) Allows interactive staging of changes
 C) Pushes changes to the remote repository
 D) Removes files from the staging area
-D) Removes files from the staging area
 --------------------
 2. Which command stages all modified and new files in the current directory?
 A) git add .
